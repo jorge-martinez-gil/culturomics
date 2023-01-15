@@ -1,5 +1,8 @@
 # Culturomics
 
+Our research work has revealed that appropriately comparing the occurrence patterns of words in some periods of
+human literature can help us to accurately determine the semantic similarity between these words by means of computers without requiring human intervention.
+
 This is the source code from the paper:
 
 Jorge Martinez-Gil, Mario Pichler, Alejandra Lorena Paoletti: Looking for the Best Historical Window for Assessing Semantic Similarity Using Human Literature. EDBT/ICDT Workshops 2016. [[Link]](https://ceur-ws.org/Vol-1558/paper29.pdf)
