@@ -1,13 +1,21 @@
+
 # Culturomics
 
-Our research work has revealed that appropriately comparing the occurrence patterns of words in some periods of
-human literature can help us to accurately determine the semantic similarity between these words by means of computers without requiring human intervention.
+## 📖  Introduction
 
-This is the source code from the paper:
+Culturomics is a research project that focuses on comparing word occurrence patterns in different periods of human literature to determine semantic similarity without human intervention. This repository contains the source code from the paper titled "Looking for the Best Historical Window for Assessing Semantic Similarity Using Human Literature" by Jorge Martinez-Gil, Mario Pichler, and Alejandra Lorena Paoletti, presented at EDBT/ICDT Workshops in 2016.
 
-Jorge Martinez-Gil, Mario Pichler, Alejandra Lorena Paoletti: Looking for the Best Historical Window for Assessing Semantic Similarity Using Human Literature. EDBT/ICDT Workshops 2016. [[Link]](https://ceur-ws.org/Vol-1558/paper29.pdf)
+## 🌟 Overview
 
-## Citation
+The main goal of Culturomics is to develop computational methods for assessing semantic similarity between words based on their occurrence patterns in historical literature. By analyzing how words co-occur in different time periods, we aim to provide insights into the evolution of language and meaning.
+
+## 📊 Paper Link
+
+For a detailed understanding of the research and methodologies used in this project, you can refer to the paper available at the following link:
+
+[Looking for the Best Historical Window for Assessing Semantic Similarity Using Human Literature (PDF)](https://ceur-ws.org/Vol-1558/paper29.pdf)
+
+## 📚 Citation
 ```
 @inproceedings{GilPP16,
   author    = {Jorge Martinez-Gil and
@@ -23,7 +31,6 @@ Jorge Martinez-Gil, Mario Pichler, Alejandra Lorena Paoletti: Looking for the Be
   volume    = {1558},
   publisher = {CEUR-WS.org},
   year      = {2016},
-  url       = {http://ceur-ws.org/Vol-1558/paper29.pdf},
-  timestamp = {Wed, 12 Feb 2020 16:44:24 +0100}
+  url       = {http://ceur-ws.org/Vol-1558/paper29.pdf}
 }
 ```
